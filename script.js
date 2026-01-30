@@ -2,7 +2,7 @@ const board = document.querySelector(".game-board");
 const scoreDisplay = document.getElementById("score");
 const restartBtn = document.getElementById("restartBtn");
 
-let emojis = ["🍎","🍌","🍇","🍒","🍉","🥝","🍍","🍑"];
+let emojis = ["🍎","🍌","🍇","🍒","🍉","🥝","🍍","🍑"]; 
 let cards = [];
 let firstCard, secondCard;
 let lockBoard = false;
