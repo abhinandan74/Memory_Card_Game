@@ -24,7 +24,7 @@ function startGame() {
       <div class="front">${emoji}</div>
       <div class="back"></div>
     `;
-    board.appendChild(card);
+    board.appendChild(card); 
 
     card.addEventListener("click", flipCard);
   });
