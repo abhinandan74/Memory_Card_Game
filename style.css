@@ -26,10 +26,10 @@ button {
   border: none;
   border-radius: 8px;
   background: #ff5722;
-  color: white;
-  cursor: pointer;
-  margin-left: 10px;
-  transition: 0.3s;
+  color:white;
+  cursor:pointer;
+  margin-left:10px;
+  transition:0.3s;
 }
 
 button:hover {
