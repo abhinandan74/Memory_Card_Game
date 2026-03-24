@@ -35,7 +35,7 @@ A simple and interactive **Memory Card Game** built using HTML, CSS, and JavaScr
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```
 Memory-Card-Game/
