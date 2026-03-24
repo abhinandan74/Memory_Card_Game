@@ -1,6 +1,6 @@
 # 🧠 Memory Card Game
 
-A simple and interactive **Memory Card Game** built using HTML, CSS, and JavaScript. This game helps improve memory skills by challenging players to match pairs of cards within minimum moves and time.
+A simple and interactive **Memory Card Game** built using HTML, CSS, and JavaScript. This game helps improve memory skills by challenging players to match pairs of cards within minimum moves and time. 
 
 ---
 
