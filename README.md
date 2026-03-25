@@ -11,7 +11,7 @@ A simple and interactive **Memory Card Game** built using HTML, CSS, and JavaScr
 * 🔢 Move counter 
 * 🔄 Restart / Reset game option
 * 🎨 Responsive and clean UI
-* 🧩 Randomized card positions every time
+* 🧩 Randomized card positions every time 
 
 ---
 
