@@ -8,7 +8,7 @@ A simple and interactive **Memory Card Game** built using HTML, CSS, and JavaScr
 
 * 🎴 Flip cards to find matching pairs
 * ⏱️ Timer to track your performance
-* 🔢 Move counter
+* 🔢 Move counter 
 * 🔄 Restart / Reset game option
 * 🎨 Responsive and clean UI
 * 🧩 Randomized card positions every time
